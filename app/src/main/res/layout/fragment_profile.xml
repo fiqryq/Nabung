@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:background="@android:color/white"
         android:paddingBottom="60dp"
-        tools:context=".ProfileFragment">
+        tools:context="com.sunflower.nabung.ProfileFragment">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/constraintLayout4"

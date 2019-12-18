@@ -10,7 +10,7 @@
         android:layout_height="match_parent"
         android:background="@color/putih"
         android:paddingBottom="210dp"
-        tools:context=".TambahWishlistActivity">
+        tools:context="com.sunflower.nabung.TambahWishlistActivity">
 
         <Button
             android:id="@+id/bt_tambah_wishlist"

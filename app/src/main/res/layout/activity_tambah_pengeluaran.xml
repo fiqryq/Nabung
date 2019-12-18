@@ -11,7 +11,7 @@
     android:background="@color/putih"
     android:layout_height="match_parent"
     android:paddingBottom="280dp"
-    tools:context=".TambahPengeluaranActivity">
+    tools:context="com.sunflower.nabung.TambahPengeluaranActivity">
 
     <ImageView
         android:id="@+id/imageView7"

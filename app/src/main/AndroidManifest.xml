@@ -10,51 +10,51 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".EditPengeluaranActivity"></activity>
-        <activity android:name=".EditPemasukanActivity" />
-        <activity android:name=".EditWishlistActivity" />
+        <activity android:name="com.sunflower.nabung.EditPengeluaranActivity"></activity>
+        <activity android:name="com.sunflower.nabung.EditPemasukanActivity" />
+        <activity android:name="com.sunflower.nabung.EditWishlistActivity" />
         <activity
-            android:name=".AboutAppActivity"
+            android:name="com.sunflower.nabung.AboutAppActivity"
             android:label="Tentang Aplikasi">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.sunflower.nabung.MainActivity" />
         </activity>
-        <activity android:name=".IntroActivity" />
+        <activity android:name="com.sunflower.nabung.IntroActivity" />
         <activity
-            android:name=".TambahSaldoNabungActivity"
+            android:name="com.sunflower.nabung.TambahSaldoNabungActivity"
             android:label="Nabung"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.sunflower.nabung.MainActivity" />
         </activity>
         <activity
-            android:name=".TambahPengeluaranActivity"
+            android:name="com.sunflower.nabung.TambahPengeluaranActivity"
             android:label="Tambah Pengeluaran"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.sunflower.nabung.MainActivity" />
         </activity>
         <activity
-            android:name=".TambahPemasukanActivity"
+            android:name="com.sunflower.nabung.TambahPemasukanActivity"
             android:label="Tambah Pemasukan"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.sunflower.nabung.MainActivity" />
         </activity>
         <activity
-            android:name=".TambahWishlistActivity"
+            android:name="com.sunflower.nabung.TambahWishlistActivity"
             android:label="Tambah Wishlist"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.sunflower.nabung.MainActivity" />
         </activity>
         <activity
-            android:name=".LoginActivity"
+            android:name="com.sunflower.nabung.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme2">
             <intent-filter>
@@ -64,18 +64,18 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".RegisterActivity"
+            android:name="com.sunflower.nabung.RegisterActivity"
             android:label="Daftar"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.sunflower.nabung.MainActivity" />
         </activity>
         <activity
-            android:name=".SplashscreenActivity"
+            android:name="com.sunflower.nabung.SplashscreenActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.sunflower.nabung.MainActivity"
             android:label="@string/title_activity_menu_utama"
             android:screenOrientation="portrait" />
     </application>

@@ -11,7 +11,7 @@
     android:layout_height="match_parent"
     android:paddingBottom="70dp"
     android:background="@color/putih"
-    tools:context=".LoginActivity">
+    tools:context="com.sunflower.nabung.LoginActivity">
 
     <EditText
         android:id="@+id/et_email_login"

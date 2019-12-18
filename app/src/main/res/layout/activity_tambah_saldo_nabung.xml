@@ -9,7 +9,7 @@
     android:layout_height="match_parent"
     android:paddingBottom="250dp"
     android:background="@color/putih"
-    tools:context=".TambahSaldoNabungActivity">
+    tools:context="com.sunflower.nabung.TambahSaldoNabungActivity">
 
     <ImageView
         android:id="@+id/imageView8"

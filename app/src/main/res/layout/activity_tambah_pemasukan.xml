@@ -11,7 +11,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="280dp"
-    tools:context=".TambahPemasukanActivity">
+    tools:context="com.sunflower.nabung.TambahPemasukanActivity">
 
     <EditText
         android:id="@+id/et_catatan_tambah_pms"
