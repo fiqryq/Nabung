@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Nabung</string>
+    <string name="title_activity_menu_utama">MenuUtama</string>
+    <string name="title_home">Wishlist</string>
+    <string name="title_pengeluaran">Pengeluaran</string>
+    <string name="title_pemasukan">Pemasukan</string>
+    <string name="title_profil">Profil</string>
+    <string name="cancel">Batal</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_pet">Hapus Wishlist?</string>
+    <string name="delete_pets">Hapus semua wishlist terpilih?</string>
+
+    <string name="delete_pemasukan">Hapus Pemasukan</string>
+    <string name="delete_pemasukan_Selected">Hapus semua pemasukan terpilih?</string>
+
+    <string name="delete_pengeluaran">Hapus Pengeluaran</string>
+    <string name="delete_pengeluaran_Selected">Hapus semua pengeluaran terpilih?</string>
+
+    <string name="tentangapp">Nabung – Aplikasi pencatat tabungan adalah
+        aplikasi yang bertujuan untuk membantu Anda dalam mengatur semaua
+        aktivitas keuangan setiap harinya baik aktivitas pengeluaran maupun
+        aktvitas pemasukan secara efisien. Aplikasi ini juga dapat digunakan
+        untuk mendata semua daftar keinginan Anda supaya barang / keinginan yang
+        Anda inginkan bisa tercapai dengan adanya aplikasi ini. Serta dapat membantu
+        dalam memotivasi Anda untuk mencapai sesuatu yang Anda inginkan dengan adanya
+        notifikasi pengingat untuk menabung.Aplikasi ini dibuat simple agar memudahkan
+        user dalam pemakaiannya.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

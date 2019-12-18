@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33430913322",
+    "firebase_url": "https://nabung-23cb9.firebaseio.com",
+    "project_id": "nabung-23cb9",
+    "storage_bucket": "nabung-23cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33430913322:android:e4b1f77ae8c94f72f59e53",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.nabung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33430913322-70lqvo1i3a0884ah687kkfuah7p2nea6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.nabung",
+            "certificate_hash": "80044ea586272b9f7da147b7d726348c65d3fdc9"
+          }
+        },
+        {
+          "client_id": "33430913322-387nkc11ndfjbkneh9n9qo0rq9gaipmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCByEyXYSoiYWGvkQxwEesbcz-q79ZoGcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33430913322-387nkc11ndfjbkneh9n9qo0rq9gaipmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
