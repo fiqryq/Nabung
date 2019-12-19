@@ -1,4 +1,4 @@
-# Nabung
+# Nabung - Aplikasi Pendatat Tabungan
 Nabung – Aplikasi pencatat tabungan adalah aplikasi yang bertujuan untuk membantu Anda dalam mengatur semaua aktivitas keuangan setiap harinya baik aktivitas pengeluaran maupun aktvitas pemasukan secara efisien. Aplikasi ini juga dapat digunakan untuk mendata semua daftar keinginan Anda supaya barang / keinginan yang Anda inginkan bisa tercapai dengan adanya aplikasi ini. Serta dapat membantu dalam memotivasi Anda untuk mencapai sesuatu yang Anda inginkan dengan adanya notifikasi pengingat untuk menabung. Aplikasi ini dibuat simple agar memudahkan user dalam pemakaiannya. 
 
 Fitur utama:
