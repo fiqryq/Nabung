@@ -23,7 +23,7 @@ Link Aplikasi : https://play.google.com/store/apps/details?id=org.d3ifcool.nabun
 - Thalia Veronica
 
 Jangan Lupa Star Repository ini <br>
-Copyright by Sunflower 2019
+Copyright by Sunflower 2019.
 
 
 
