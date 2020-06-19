@@ -1,29 +1,29 @@
 # Nabung - Aplikasi Pendatat Tabungan
-Nabung – Aplikasi pencatat tabungan adalah aplikasi yang bertujuan untuk membantu Anda dalam mengatur semaua aktivitas keuangan setiap harinya baik aktivitas pengeluaran maupun aktvitas pemasukan secara efisien. Aplikasi ini juga dapat digunakan untuk mendata semua daftar keinginan Anda supaya barang / keinginan yang Anda inginkan bisa tercapai dengan adanya aplikasi ini. Serta dapat membantu dalam memotivasi Anda untuk mencapai sesuatu yang Anda inginkan dengan adanya notifikasi pengingat untuk menabung. Aplikasi ini dibuat simple agar memudahkan user dalam pemakaiannya.
+![Build Status](https://travis-ci.com/fiqryq/Nabung.svg?branch=master)](https://travis-ci.com/fiqryq/Nabung)
+![Build Status](https://dev.azure.com/fiqrychoerudin/Nabung/_apis/build/status/fiqryq.Nabung?branchName=master)
 
-# Dapatkan Aplikasi Kami Di playstore
-Link Aplikasi : https://play.google.com/store/apps/details?id=org.d3ifcool.nabung
-![Nabung Playstore](https://user-images.githubusercontent.com/25787603/71867502-fbc4d100-313c-11ea-80aa-0ecf9bfed940.jpg)
+Nabung – Aplikasi pencatat tabungan Berbasis Android.
 
-# Jumlah Download Saat ini
- ![downladd](https://user-images.githubusercontent.com/25787603/71867662-a6d58a80-313d-11ea-8b4f-b7d552f2b4b5.jpg)
+## Tech 👨‍💻
+- [Firebase](https://firebase.google.com/docs/android/setup?authuser=0) - Firebase
 
+## Download
+Aplikasi Ini Sudah di publish dan dapat di unduh di Play Store.
 
-# Fitur Aplikasi
+<a href='https://play.google.com/store/apps/details?id=org.d3ifcool.nabung'>
+<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150" height="65"/></a>
+
+## Fitur Aplikasi
 - Fitur Wishlist (Rencana Belanja) adalah fitur yang memudahkan Anda mewujudkan semua keinginan/barang impian yang ingin Anda miliki. Pada fitur ini juga Anda dapat menambahkan list keinginan yang Anda inginkan, harga barang yang Anda inginkan dan berapa hari target Anda ingin membeli barang yang Anda inginkan. Pada fitur ini juga dapat menambah, mengedit serta menghapus list keinginan Anda.
 - Fitur Pemasukkan adalah fitur yang memudahkan Anda untuk mencatat semua uang yang masuk.
 - Fitur Pengeluaran adalah fitur yang mencatat semua pengeluaran keuangan Anda.
 
-# Versi Aplikasi
-  <b> versi 1.0 </b>
+## Contribute
+Kamu dapat membuat issue agar aplikasi ini dapat dikembangkan dan jangan lupa beri star dan fork repository ini <3.
 
-# Team Sunflower
+## Copyright
+Sunflower 2018-2019
 - Fiqry choerudin
-- M fikri firdaus 
+- Muhammad Fikri Firdaus
 - Thalia Veronica
-
-Jangan Lupa Star Repository ini <br>
-Copyright by Sunflower 2019.
-
-
 
