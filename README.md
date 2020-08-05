@@ -1,5 +1,4 @@
-# Nabung - Aplikasi Pendatat Tabungan
-![Build Status](https://travis-ci.com/fiqryq/Nabung.svg?branch=master)
+# Nabung - Aplikasi Pendatat Tabungan (Project Usang)
 ![Build Status](https://dev.azure.com/fiqrychoerudin/Nabung/_apis/build/status/fiqryq.Nabung?branchName=master)
 
 Nabung – Aplikasi pencatat tabungan Berbasis Android.
